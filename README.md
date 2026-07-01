@@ -32,19 +32,10 @@ SPBSTUParse — это Python-скрипт для получения и обра
 
 ---
 
-## 📁 Структура проекта
-
-src/
- ├── main.py        # основной файл запуска
- ├── ORM.py         # класс Student
- ├── programs.py    # API-запросы
- ├── codes.py       # коды направлений
-
----
-
 ## ▶️ Запуск
 
 pip install requirements.txt
+
 python main.py
 
 ---
@@ -61,7 +52,7 @@ python main.py
 
 После выполнения создаётся файл:
 
-Политех. <program>. <квота>.xlsx
+Политех. <номер программы>. <квота>.xlsx
 
 ---
 
